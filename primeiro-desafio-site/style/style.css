@@ -211,6 +211,11 @@ footer {
     padding: 5px;
 }
 
+footer strong {
+    color: var(--cor2);
+    font-weight: bolder;
+}
+
 footer a {
     color: var(--cor2);
     font-weight: bolder;
