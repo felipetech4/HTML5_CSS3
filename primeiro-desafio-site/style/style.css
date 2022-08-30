@@ -211,11 +211,6 @@ footer {
     padding: 5px;
 }
 
-footer strong {
-    color: var(--cor2);
-    font-weight: bolder;
-}
-
 footer a {
     color: var(--cor2);
     font-weight: bolder;
@@ -226,6 +221,6 @@ footer a:hover {
     text-decoration: underline;
     background-color: var(--cor1);
     color: var(--cor4);
-    padding: 2px;
+    padding: 2px 5px;
     border-radius: 10px;
 }
