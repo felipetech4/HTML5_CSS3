@@ -15,7 +15,7 @@
 
 body {
     background-color:var(--cor1);
-}
+}   
 
 header {
     background-image: linear-gradient(to right, rgb(35, 166, 35), white);
