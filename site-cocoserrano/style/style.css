@@ -14,7 +14,7 @@
 }
 
 body {
-    background-color: aquamarine;
+    background-color:var(--cor1);
 }
 
 header {
