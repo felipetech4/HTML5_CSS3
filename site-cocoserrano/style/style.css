@@ -14,8 +14,8 @@
 }
 
 body {
-    background-color:var(--cor1);
-}   
+    background-color:var(--cor2);
+}
 
 header {
     background-image: linear-gradient(to right, rgb(35, 166, 35), white);
@@ -25,4 +25,18 @@ header {
 
 header h1 {
     padding-bottom: 20px;
+}
+
+nav {
+    padding-top: 30px;
+    text-align: left;
+}
+
+main {
+    background-color: var(--cor1);
+    min-width:300px;
+    max-width:1000px;
+    margin: auto;
+    margin-top: 1px;
+    padding: 10px;
 }
