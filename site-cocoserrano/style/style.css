@@ -5,6 +5,14 @@
     margin: 0px;
 }
 
+:root {
+    --cor1:#EDF7F0;
+    --cor2:#376142;
+    --cor3:#07DE40;
+    --cor4:#06AD32;
+    --cor5:#035E1B;
+}
+
 body {
     background-color: aquamarine;
 }
