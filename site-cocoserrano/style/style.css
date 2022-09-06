@@ -27,6 +27,10 @@ header h1 {
     padding-bottom: 20px;
 }
 
+header a {
+    color: white;
+}
+
 nav {
     padding-top: 30px;
     text-align: left;
