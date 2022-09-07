@@ -5,3 +5,6 @@ Irei continuar o projeto pela ferramenta MockFlow e detalhando por aqui os meus 
         - Na caixa header, adicionei um titulo, um paragrafo e um menubar
         - Na caixa main adicionei textos e imagens
         - finalizando projeto no mockflow com links na area footer
+
+Agora vou escolher as fontes do projeto com as ferramentas do Google Fonts e Dafont.
+    
