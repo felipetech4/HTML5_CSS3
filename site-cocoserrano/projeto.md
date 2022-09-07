@@ -3,3 +3,4 @@ Irei continuar o projeto pela ferramenta MockFlow e detalhando por aqui os meus 
     Adicionei no projeto MockFlow:
         - Uma caixa header, main e uma footer.
         - Na caixa header, adicionei um titulo, um paragrafo e um menubar
+        - Na caixa main adicionei textos e imagens
