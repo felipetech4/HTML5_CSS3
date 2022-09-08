@@ -1,5 +1,18 @@
 @charset "UTF-8";
 
+@font-face {
+    font-family: 'Titulo';
+    src: url('../fontes/Coconut\ Punch\ DEMO.otf') format('opentype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Subtitulo';
+    src: url('../fontes/Cocomat\ Light-trial.ttf') format('truetype');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 * {
     padding: 0px;
     margin: 0px;
