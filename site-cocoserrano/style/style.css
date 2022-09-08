@@ -25,7 +25,9 @@
     --cor4:#06AD32;
     --cor5:#035E1B;
 
-    --fonte-tropical: 'Gochi Hand', cursive;
+    --fonte-titulo: 'Titulo';
+    --fonte-subtitulo: 'Subtitulo';
+    --fonte-padrao: 'Poppins', sans-serif;
 }
 
 body {
