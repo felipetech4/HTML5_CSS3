@@ -82,6 +82,7 @@ main {
     max-width:1000px;
     margin: auto;
     padding: 10px;
+    border-radius: 0px 0px 10px 10px;
 }
 
 footer {
