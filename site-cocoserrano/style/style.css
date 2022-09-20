@@ -76,6 +76,7 @@ nav {
 
 main {
     background-color: var(--cor1);
+    font-family: var(--fonte-padrao);
     min-width:300px;
     max-width:1000px;
     margin: auto;
