@@ -53,6 +53,8 @@ header p {
     font-weight: bold;
     font-size: 1.5em;
     color: #035E1B;
+    margin: -10px;
+    padding-bottom: 30px;
 }
 
 header a {
