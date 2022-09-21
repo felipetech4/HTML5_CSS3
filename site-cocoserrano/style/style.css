@@ -76,6 +76,10 @@ header a:hover {
 nav {
     padding-top: 30px;
     text-align: left;
+    padding: 10px;
+    margin-right: -10px;
+    margin-left: -10px;
+    background-image: linear-gradient(to top, rgba(35, 166, 35, 0.300), rgba(255, 255, 255, 0.300));
 }
 
 main {
