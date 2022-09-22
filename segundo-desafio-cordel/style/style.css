@@ -9,6 +9,11 @@
     --fonte2: 'Sriracha', cursive;
 }
 
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
 body {
     font-family: var(--fonte1);
 }
