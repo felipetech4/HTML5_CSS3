@@ -16,6 +16,15 @@
 
 header {
     font-family: var(--fonte1);
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+
+
+body {
+    font-family: var(--fonte2);
 }
 
 .background-white {
