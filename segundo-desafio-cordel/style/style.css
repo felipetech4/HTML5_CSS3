@@ -36,7 +36,7 @@ body {
     font-family: var(--fonte2);
 }
 
-section > p {
+section p {
     font-size: 3em;
     line-height: 2em;
     padding: 60px 30px;
@@ -53,6 +53,7 @@ a:hover {
     text-decoration: underline;
 }
 
+
 .background-white {
 
 }
@@ -67,9 +68,13 @@ a:hover {
 }
 
 #first-background-fixed {
-    background-image: url('../images/background001.jpg');
+    background: url('../images/background001.jpg') center center no-repeat fixed;
+    background-size: cover;
+    color: white;
 }
 
 #second-background-fixed {
-    
+    background: url('../images/background002.jpg') center center no-repeat fixed;
+    background-size: cover;
+    color: white;
 }
