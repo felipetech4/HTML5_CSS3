@@ -21,10 +21,20 @@ header {
     color: white;
 }
 
-    
+header h1 {
+    font-size: 5em;
+}
+
+header p {
+    font-family: Arial, Helvetica, sans-serif;
+}
 
 body {
     font-family: var(--fonte2);
+}
+
+a {
+    font-weight: bolder;
 }
 
 .background-white {
