@@ -15,7 +15,7 @@
 }
 
 header {
-    max-height: 150px;
+    height: 170px;
     padding: 50px;
     font-family: var(--fonte1);
     text-align: center;
@@ -37,8 +37,9 @@ body {
 }
 
 section > p {
-    padding: 60px 30px;
     font-size: 3em;
+    line-height: 2em;
+    padding: 60px 30px;
 }
 
 a {
