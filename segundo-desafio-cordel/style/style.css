@@ -28,12 +28,17 @@ header h1 {
     letter-spacing: 4px;
 }
 
-header p {
+header > p {
     font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
     font-family: var(--fonte2);
+}
+
+section > p {
+    padding: 60px 30px;
+    font-size: 3em;
 }
 
 a {
@@ -48,7 +53,6 @@ a:hover {
 }
 
 .background-white {
-
 }
 
 #first-background-fixed {
