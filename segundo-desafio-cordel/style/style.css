@@ -4,14 +4,14 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
 
-:root{
-    --fonte1: 'Passion One', cursive;
-    --fonte2: 'Sriracha', cursive;
-}
-
 *{
     margin: 0px;
     padding: 0px;
+}
+
+:root{
+    --fonte1: 'Passion One', cursive;
+    --fonte2: 'Sriracha', cursive;
 }
 
 header {
