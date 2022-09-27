@@ -83,7 +83,8 @@ nav {
 main {
     background-color: var(--cor1);
     font-family: var(--fonte-padrao);
-    line-height: 1.5em;
+    line-height: 2em;
+    
     text-align: justify;
     min-width:300px;
     max-width:1000px;
