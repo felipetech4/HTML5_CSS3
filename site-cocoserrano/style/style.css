@@ -84,7 +84,7 @@ main {
     background-color: var(--cor1);
     font-family: var(--fonte-padrao);
     line-height: 2em;
-    
+    letter-spacing: 0.5px;
     text-align: justify;
     min-width:300px;
     max-width:1000px;
