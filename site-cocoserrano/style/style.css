@@ -95,4 +95,7 @@ main {
 
 footer {
     text-align: center;
+    font-weight: bold;
+    padding: 10px;
+    background-image: linear-gradient(to bottom, var(--cor1), var(--cor2));
 }
