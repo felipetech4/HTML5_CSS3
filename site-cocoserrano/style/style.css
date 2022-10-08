@@ -99,5 +99,10 @@ footer {
     text-align: center;
     font-weight: bold;
     padding: 10px;
-    background-image: linear-gradient(to bottom, var(--cor1), var(--cor2));
+    background-image: linear-gradient(to bottom, var(--cor1), var(--cor3));
+    color: var(--cor5);
+}
+
+footer p::before {
+    content: '\A9';
 }
