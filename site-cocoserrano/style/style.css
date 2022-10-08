@@ -73,6 +73,14 @@ header a:hover {
     border-radius: 5px;
     transition-duration: 0.5s;
 }
+
+div#image {
+    background-image: url(../imagens/logomarca\ png.jpg);
+    background-size: 10vw;
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+
 nav {
     text-align: left;
     padding: 10px;
