@@ -20,10 +20,10 @@
 
 :root {
     --cor1:#EDF7F0;
-    --cor2:#376142;
-    --cor3:#07DE40;
-    --cor4:#06AD32;
-    --cor5:#035E1B;
+    --cor2:#06AD32;
+    --cor3:#376142a9;
+    --cor4:#035E1B;
+    --cor5:#003a10;
 
     --fonte-titulo: 'Titulo';
     --fonte-subtitulo: 'Subtitulo';
