@@ -43,7 +43,7 @@ header {
 
 header h1 {
     font-family: var(--fonte-titulo);
-    color: #035E1B;
+    color: var(--cor1);
     padding-bottom: 20px;
     font-size: 5em;
 }
@@ -52,13 +52,13 @@ header p {
     font-family: var(--fonte-subtitulo);
     font-weight: bold;
     font-size: 1.5em;
-    color: #035E1B;
+    color: var(--cor4);
     margin: -10px;
     padding-bottom: 30px;
 }
 
 header a {
-    color: white;
+    color: var(--cor4);
     text-decoration: none;
     font-family: var(--fonte-padrao);
     font-weight: bold;
@@ -67,8 +67,8 @@ header a {
 }
 
 header a:hover {
-    background-color: rgba(255, 255, 255, 0.227);
-    color: #376142;
+    background-color: var(--cor3);
+    color: var(--cor1);
     padding: 10px;
     border-radius: 5px;
     transition-duration: 0.5s;
